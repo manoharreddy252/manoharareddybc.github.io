@@ -32,4 +32,4 @@ I am a Lead Software Engineer with over 6 years of experience in designing, deve
 
 ## View Resume
 
-You can view my full resume by visiting [https://manoharreddy252.github.io](https://manoharreddy252.github.io)
+You can view my full resume by visiting [https://manoharareddybc.github.io](https://manoharareddybc.github.io)
